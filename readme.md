@@ -8,4 +8,6 @@ Blog Post
 ---------
 This example was generated to assist in the discussion of this topic. You may read more information:
 
+[http://www.justjuzzy.com/2012/10/exceptions-from-awaitable-code/][1]
 
+[1]: http://www.justjuzzy.com/2012/10/exceptions-from-awaitable-code/

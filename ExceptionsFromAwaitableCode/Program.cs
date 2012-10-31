@@ -33,6 +33,7 @@ namespace ExceptionsFromAwaitableCode
             {
                 Console.WriteLine("DoAsyncOperationAndWait() method:");
                 Console.WriteLine(ex);
+                throw;
             }
         }
 
